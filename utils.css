@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    background-color: #76ABAE;
+    height: 10vh;
+    line-height: 10vh;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
